@@ -14,6 +14,7 @@
 - Chams (Requires Model Logger to add players)
 - EspBox
 - EspLine
+- EspGrenade
 - EspDistance
 - No Recoil
 - No Spread
